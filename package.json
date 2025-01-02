@@ -2,6 +2,7 @@
   "name": "aichat",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://maaviah17.github.io/AI-Chat/",
   "type": "module",
   "scripts": {
     "dev": "vite",
